@@ -30,6 +30,7 @@ public class WolltTest {
 
         driver.manage().window().maximize();
         driver.get("https://wolt.com/he/discovery");
+
         driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 
 
@@ -69,8 +70,9 @@ public class WolltTest {
         Thread.sleep(4000);
 
         //anuther page
-        WebElement buttonGiftCard=driver.findElement(By.xpath("//*[@id='mainContent']/div[3]/div/div/div[22]/div/div/div/div[4]/a"));
-        buttonGiftCard.click();
+        driver.get("https://wolt.com/he/isr/tel-aviv/venue/woltilgiftcards");
+//        WebElement buttonGiftCard=driver.findElement(By.xpath("//*[@id='mainContent']/div[3]/div/div/div[22]/div/div/div/div[4]/a"));
+//        buttonGiftCard.click();
 
 //        $x("//*[@id='mainContent']/div[3]/div/div/div[22]/div/div/div/div[4]/a")
         Thread.sleep(4000);
