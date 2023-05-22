@@ -1,0 +1,63 @@
+10:44:27.270 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: Test Name: testF10 (Report source: OTHER)
+10:44:27.275 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: KEY: testId  VALUE: 19d9b923-af45-42c1-b5ba-e465ef597f19 (Report source: OTHER)
+10:44:33.014 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: Invalid th
+10:44:33.623 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Get Status. Status: Pass
+10:44:33.623 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: Test Result - PASS
+10:44:33.628 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: Test Name: testF11 (Report source: OTHER)
+10:44:33.630 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: KEY: testId  VALUE: 171d1d4c-1e2e-4826-8091-d38c07da71fe (Report source: OTHER)
+10:44:37.103 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: Invalid
+10:44:37.132 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: Invalid
+10:44:37.676 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Get Status. Status: Pass
+10:44:37.676 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: Test Result - PASS
+10:44:37.678 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: Test Name: testF1 (Report source: OTHER)
+10:44:37.678 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: KEY: testId  VALUE: 25a61650-9b65-4094-9722-5c8df9a88f25 (Report source: OTHER)
+10:44:41.830 [main] INFO  co.verisoft.fw.pages.BasePage - elements [Decorated {[[FirefoxDriver: firefox on WINDOWS (d1471c0d-5d45-4f06-a469-9aba600f670a)] -> class name: learntocodeh1]}]was present on page
+10:44:41.830 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: Invalid
+10:44:45.381 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Get Status. Status: Pass
+10:44:45.382 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: Test Result - PASS
+10:44:45.383 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: Test Name: testF2 (Report source: OTHER)
+10:44:45.384 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: KEY: testId  VALUE: ee34a794-b57d-4b78-8bd9-182a9ce9eb76 (Report source: OTHER)
+10:44:49.444 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: the list is open and contain java
+10:44:50.014 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Get Status. Status: Pass
+10:44:50.015 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: Test Result - PASS
+10:44:50.017 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: Test Name: testF3 (Report source: OTHER)
+10:44:50.017 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: KEY: testId  VALUE: 99c94e6f-edd0-4869-8f52-cd33b59f44c7 (Report source: OTHER)
+10:44:56.087 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Get Status. Status: Pass
+10:44:56.087 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: Test Result - PASS
+10:44:56.088 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: Test Name: testF4 (Report source: OTHER)
+10:44:56.088 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: KEY: testId  VALUE: 0a89304a-0edc-4bc1-a81d-f2e6f9e33d0d (Report source: OTHER)
+10:45:00.509 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: the menu is display
+10:45:00.548 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: the menu is display
+10:45:00.597 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: the menu is display
+10:45:01.140 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Get Status. Status: Pass
+10:45:01.140 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: Test Result - PASS
+10:45:01.141 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: Test Name: testF5 (Report source: OTHER)
+10:45:01.141 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: KEY: testId  VALUE: bc397b72-54d3-4c24-886b-0949240ca2c4 (Report source: OTHER)
+10:45:04.775 [main] INFO  co.verisoft.fw.pages.BasePage - elements [Decorated {[[FirefoxDriver: firefox on WINDOWS (c643d3dd-4c8d-4d53-9953-26138d4a5cca)] -> xpath: //*[@id='main']/h1]}]was present on page
+10:45:04.775 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: is on java tutorial
+10:45:05.370 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Get Status. Status: Pass
+10:45:05.370 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: Test Result - PASS
+10:45:05.372 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: Test Name: testF6 (Report source: OTHER)
+10:45:05.372 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: KEY: testId  VALUE: a432c374-e0c2-41d0-bd44-6791ea4856c9 (Report source: OTHER)
+10:45:10.510 [main] INFO  co.verisoft.fw.pages.BasePage - elements [Decorated {[[FirefoxDriver: firefox on WINDOWS (79c27465-332b-4549-81d4-88532f603a2f)] -> xpath: //*[@id='main']/h1]}]was present on page
+10:45:10.510 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: is on java Introduction
+10:45:11.084 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Get Status. Status: Pass
+10:45:11.085 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: Test Result - PASS
+10:45:11.088 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: Test Name: testF7 (Report source: OTHER)
+10:45:11.089 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: KEY: testId  VALUE: ad60bb30-4928-41c4-a3b9-bba3493495a0 (Report source: OTHER)
+10:45:15.966 [main] INFO  co.verisoft.fw.pages.BasePage - elements [Decorated {[[FirefoxDriver: firefox on WINDOWS (238725ed-d886-4230-9b86-b47f7d701d0d)] -> xpath: //*[@id='main']/h1]}]was present on page
+10:45:15.966 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: is on java tutorial
+10:45:16.511 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Get Status. Status: Pass
+10:45:16.512 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: Test Result - PASS
+10:45:16.514 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: Test Name: testF8 (Report source: OTHER)
+10:45:16.514 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: KEY: testId  VALUE: ace16a95-a722-439e-a6ec-743afa8df4c5 (Report source: OTHER)
+10:45:21.122 [main] INFO  co.verisoft.fw.pages.BasePage - elements [Decorated {[[FirefoxDriver: firefox on WINDOWS (3b81afb2-c508-43b4-83d1-a1e4c74d42d7)] -> xpath: //*[@id='main']/h1]}]was present on page
+10:45:21.148 [main] INFO  co.verisoft.fw.pages.BasePage - elements [Decorated {[[FirefoxDriver: firefox on WINDOWS (3b81afb2-c508-43b4-83d1-a1e4c74d42d7)] -> xpath: //*[@id='main']/h1]}]was present on page
+10:45:21.148 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: is on java tutorial
+10:45:24.685 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Get Status. Status: Pass
+10:45:24.685 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: Test Result - PASS
+10:45:24.686 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: Test Name: testF9 (Report source: OTHER)
+10:45:24.686 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Log. Status: Info, detils: KEY: testId  VALUE: a8fe2b62-bd00-40c8-8686-7f593f1fe453 (Report source: OTHER)
+10:45:33.085 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Get Status. Status: Pass
+10:45:33.086 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentTest - Report Log - Pass. Details: Test Result - PASS
+10:45:33.087 [main] INFO  co.verisoft.fw.extentreport.DelegateExtentReports - Flush report
