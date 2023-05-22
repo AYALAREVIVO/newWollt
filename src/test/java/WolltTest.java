@@ -126,7 +126,7 @@ public class WolltTest {
         driver.switchTo().defaultContent();
 
 
-        System.out.println("DONE");
+        System.out.println("wow");
     }
 
 
